@@ -11,7 +11,8 @@ description = ""
 dependencies = [
     "snowflake-snowpark-python",
     "streamlit",
-    "requests"
+    "requests",
+    "pandas"
 ]
 
 [tool.uv]
